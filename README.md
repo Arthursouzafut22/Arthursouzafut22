@@ -7,7 +7,7 @@
 
 ![Arthursouza GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthursouzafut22&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias que eu uso no meu dia a dia.
 
 <div align="left"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
