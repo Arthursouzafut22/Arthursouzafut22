@@ -1,4 +1,4 @@
-### Olá! eu sou Arthur Souza Desenvolvedor Front end 👋
+### Olá! Eu sou um desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Com experiência em HTML, CSS, JavaScript, e frameworks como React, tenho um forte interesse em entregar experiências digitais incríveis. 👋
 
 
 
@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img src="./sass.png" height="30" alt="typescript logo"  />
   <img width="12" />
   <img width="12" />
 </div>
