@@ -1,4 +1,4 @@
-### Olá! Eu sou um desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Com experiência em HTML, CSS, JavaScript, e frameworks como React, tenho um forte interesse em entregar experiências digitais incríveis. 👋
+### Olá! Eu sou um desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Com experiência em HTML, CSS, JavaScript, e frameworks como React e Vue, tenho um forte interesse em entregar experiências digitais incríveis. 👋
 
 
 
