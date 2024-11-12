@@ -4,10 +4,9 @@ Sou desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, 
 
 ## 🌱 Atualmente Estudando
 
-<div style="display: flex; align-items: center;">
-    <p style="margin: 0;">Estou me aprofundando em <strong>Node.js</strong> para expandir minhas habilidades no desenvolvimento backend.</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" style="margin-left: 5px;" />
-</div>
+| Estou me aprofundando em **Node.js** para expandir minhas habilidades no desenvolvimento backend. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/> |
+| --- | --- |
+
 
 
 ## 🔗 Conecte-se Comigo
