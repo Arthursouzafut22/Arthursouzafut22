@@ -1,6 +1,7 @@
 ### Olá! Eu sou um desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Com experiência em HTML, CSS, JavaScript, e frameworks como React e Vue, tenho um forte interesse em entregar experiências digitais incríveis. 👋
 
-## Estou estudando no momento: Node.Js <img src="sandbox:/mnt/data/A_simple,_modern_logo_for_Node.js_featuring_the_No.png" height="40" alt="Node.js logo" />
+## Estou estudando no momento: Node.Js <img src="https://github.com/seu-usuario/seu-repositorio/raw/main/images/logo-node.png" height="40" alt="Node.js logo" />
+
 
 [![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@loop.developer?_t=8jBvfCrO7TJ&_r=1&fbclid=IwAR044-ubfpEeuTunTWClHOHZJFOd8-CcxM8GNFYVZuCwrYxMGlp_yeK1NcA)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-souza-588168256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app&fbclid=IwAR1_inUd-ogOfn-uF2xMVcOCN89lbDUfLZxTMBC5a7nzxqAgqKtjCYSDwQs)
