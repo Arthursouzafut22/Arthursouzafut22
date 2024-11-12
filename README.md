@@ -1,7 +1,8 @@
 ### Olá! Eu sou um desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Com experiência em HTML, CSS, JavaScript, e frameworks como React e Vue, tenho um forte interesse em entregar experiências digitais incríveis. 👋
 
 <div style="display:flex; align-items:center;" >  
-## <h1>Estou estudando no momento: Node.Js</h1> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
+## <h1>Estou estudando no momento: Node.Js</h1> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/>
 </div>
 
 [![Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@loop.developer?_t=8jBvfCrO7TJ&_r=1&fbclid=IwAR044-ubfpEeuTunTWClHOHZJFOd8-CcxM8GNFYVZuCwrYxMGlp_yeK1NcA)
