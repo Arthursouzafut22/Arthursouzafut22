@@ -3,10 +3,12 @@
 Sou desenvolvedor frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Tenho experiência em **HTML**, **CSS**, **JavaScript** e frameworks como **React** e **Vue**. Meu objetivo é entregar experiências digitais incríveis para os usuários. 
 
 ## 🌱 Atualmente Estudando
+
 <div style="display: flex; align-items: center;">
-    <p>Estou me aprofundando em <strong>Node.js</strong> para expandir minhas habilidades no desenvolvimento backend.</p>
+    <p style="margin: 0;">Estou me aprofundando em <strong>Node.js</strong> para expandir minhas habilidades no desenvolvimento backend.</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" style="margin-left: 10px;" />
 </div>
+
 
 ## 🔗 Conecte-se Comigo
 
