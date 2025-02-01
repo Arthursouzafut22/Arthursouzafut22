@@ -1,13 +1,10 @@
 # Olá! 👋 
 
-Sou desenvolvedor Frontend apaixonado por criar interfaces de usuário bonitas, funcionais e responsivas. Tenho experiência em **HTML**, **CSS**, **JavaScript** e frameworks como **React** e **Vue**. Meu objetivo é entregar experiências digitais incríveis para os usuários. 
+Sou um desenvolvedor Frontend apaixonado por criar interfaces bonitas, fluidas e intuitivas. Adoro transformar ideias em experiências digitais incríveis, sempre buscando o equilíbrio entre design e funcionalidade.
 
-## 🌱 Atualmente Estudando
+Trabalho com HTML, CSS e JavaScript, e tenho experiência com frameworks como React e Vue. Gosto de desafios e de aprender coisas novas o tempo todo, seja otimizando a performance de uma aplicação, explorando novas tecnologias ou refinando detalhes de UI/UX.
 
-| Estou me aprofundando em **Node.js** para expandir minhas habilidades no desenvolvimento backend. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"/> |
-| --- | --- |
-
-
+Acredito que cada linha de código pode melhorar a experiência de alguém, e isso é o que me motiva todos os dias. Se quiser trocar uma ideia sobre desenvolvimento ou apenas bater um papo sobre tecnologia, é só me chamar! 🚀
 
 ## 🔗 Conecte-se Comigo
 
