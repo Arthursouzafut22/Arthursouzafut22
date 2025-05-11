@@ -18,7 +18,6 @@ Acredito que cada linha de código pode melhorar a experiência de alguém, e is
   <img src="https://vuejs.org/images/logo.png" height="40" alt="Vue.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40" alt="Styled Components logo" style="background-color: #ffffff;" />
 
 </div>
 
