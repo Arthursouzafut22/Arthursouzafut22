@@ -1,13 +1,16 @@
-#🎓 Sobre mim
+##🎓 Sobre mim                                                                
+
 Formando em TI (Análise e Desenvolvimento de Sistemas).
 Desenvolvedor Web, apaixonado por criar soluções elegantes e eficazes.
 
-#👨‍💻 Interesses profissionais:
+##👨‍💻 Interesses profissionais:                                                                    
+
 Fascinado por tudo que envolve ciência da computação, com foco em algoritmos e estruturas de dados.
 Desenvolvendo aplicações web e soluções full stack que sejam intuitivas e impactantes.
 Explorando continuamente novas tecnologias.
 
-#🛠️ Tecnologias que utilizo:
+##🛠️ Tecnologias que utilizo:                                                            
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript logo" />
@@ -20,15 +23,18 @@ Explorando continuamente novas tecnologias.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
-#🌱 O que estou fazendo atualmente:
+##🌱 O que estou fazendo atualmente:                                                             
+
 Aprendendo e aprimorando constantemente minhas habilidades em Next.js.
 Cada pixel conta: um designer analítico transformando dados em ações estratégicas, focando na UI/UX.
 
-#📈 Meus objetivos:
+##📈 Meus objetivos:                                                          
+
 Desenvolver software que faça a diferença.
 Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.
 
-📫 Entre em contato:
+##📫 Entre em contato:                                                                 
+
 Telefone: 031983262026
 E-mail: arthursouz.dev@gmail.com
       
