@@ -27,7 +27,7 @@ Explorando continuamente novas tecnologias.
 
 ### 🌱 O que estou fazendo atualmente:                                                             
 
-Aprendendo e aprimorando constantemente minhas habilidades em C#.
+Aprendendo e aprimorando constantemente minhas habilidades em C#. <br/>
 Cada pixel conta: um designer analítico transformando dados em ações estratégicas, focando na UI/UX.
 
 ### 📈 Meus objetivos:                                                          
