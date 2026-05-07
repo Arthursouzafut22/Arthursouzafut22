@@ -11,7 +11,7 @@ Explorando continuamente novas tecnologias.
 
 ### 🛠️ Tecnologias que utilizo:                                                            
 
-  <div > 
+  <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40" alt="Sass logo" />
