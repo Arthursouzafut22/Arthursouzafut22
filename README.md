@@ -37,7 +37,7 @@ Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.
 
 ### 📫 Entre em contato:                                                                 
 
-Telefone: 031983262026
+Telefone: 031983262026 <br/>
 E-mail: arthursouz.dev@gmail.com
       
     
