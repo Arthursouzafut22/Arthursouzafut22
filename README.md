@@ -1,44 +1,46 @@
-### 🎓 Sobre mim                                                                
+<div align="center">
 
-Formando em TI (Análise e Desenvolvimento de Sistemas).
-Desenvolvedor Web, apaixonado por criar soluções elegantes e eficazes.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Arthur%20Souza&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20Web&descAlignY=60&descSize=18" width="100%" alt="Banner" />
 
-### 👨‍💻 Interesses profissionais:                                                                    
+<a href="https://github.com/Arthursouzafut22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+%7C+JavaScript+%26+TypeScript;Aprendendo+e+aprimorando+C%23+%2F+.NET;Solu%C3%A7%C3%B5es+elegantes+e+eficazes" alt="Typing SVG" />
+</a>
 
-Fascinado por tudo que envolve ciência da computação, com foco em algoritmos e estruturas de dados.
-Desenvolvendo aplicações web e soluções full stack que sejam intuitivas e impactantes.
-Explorando continuamente novas tecnologias.
+<br/><br/>
 
-### 🛠️ Tecnologias que utilizo:                                                            
+<a href="mailto:arthursouz.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-arthursouz.dev@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f6feb" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Belo%20Horizonte-MG-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1f6feb" alt="Localização" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="CSharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40" alt="Sass logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://vuejs.org/images/logo.png" height="40" alt="Vue.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
-### 🌱 O que estou fazendo atualmente:                                                             
+<br/>
 
-Aprendendo e aprimorando constantemente minhas habilidades em C#. <br/>
-Cada pixel conta: um designer analítico transformando dados em ações estratégicas, focando na UI/UX.
+## Sobre mim
 
-### 📈 Meus objetivos:                                                          
+Formando em **Análise e Desenvolvimento de Sistemas**, apaixonado por criar soluções elegantes e eficazes. Foco em **algoritmos, estruturas de dados** e aplicações **full stack** intuitivas e impactantes.
 
-Desenvolver software que faça a diferença.
-Conectar-me e colaborar com outros desenvolvedores e entusiastas de tecnologia.
+## Tecnologias
 
-### 📫 Entre em contato:                                                                 
+<div align="center">
 
-Telefone: 031983262026 <br/>
-E-mail: arthursouz.dev@gmail.com
+<img src="https://skillicons.dev/icons?i=js,ts,cs,dotnet,react,vue,nodejs,html,css,sass,postgres&perline=11" alt="Tecnologias" />
+
+</div>
+
+## Foco atual
+
+- Aprimorando minhas habilidades em **C#** e **.NET**
+- Cada pixel conta: dados transformados em ações estratégicas, com foco em **UI/UX**
+
+## Objetivo
+
+Desenvolver software que faça a diferença e colaborar com outros desenvolvedores e entusiastas de tecnologia.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" alt="Rodapé" />
+
+</div>
       
     
 
